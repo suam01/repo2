@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7630-D68E
+
+ Directory of C:\Users\AlSuamAbdulla\OneDrive - Valcon Business Development A S\Desktop\myproject
+
+25/01/2023  14:08    <DIR>          .
+25/01/2023  14:08    <DIR>          ..
+25/01/2023  14:08                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  145,037,185,024 bytes free
